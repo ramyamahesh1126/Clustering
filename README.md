@@ -1,1 +1,1 @@
-# Clustering
+# Advanced Data Mining Assignments
