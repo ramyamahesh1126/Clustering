@@ -1,1 +1,1 @@
-# Clustering
+Apriori Algorithm
